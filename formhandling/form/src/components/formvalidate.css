@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.FormValidate{
+    gap: 10px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

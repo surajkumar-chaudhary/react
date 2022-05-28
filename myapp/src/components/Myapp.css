@@ -1,0 +1,20 @@
+
+.body{
+ 
+ height: 20rem;
+ margin: 20px;
+ align-items: center;
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ color: aliceblue;
+}
+.topic{
+    margin: 20px;
+}
+
+.capital-R{
+
+    color: red;
+
+}
